@@ -1,2 +1,2 @@
 # apiauth
-API authentication
+API authentication middleware for [negroni](https://github.com/codegangsta/negroni)
